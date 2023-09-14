@@ -3,7 +3,7 @@
 ###
 ### 项目.
 ###
-
+/plugin
 ##
 ## Exclude the npm lock file.
 ##
