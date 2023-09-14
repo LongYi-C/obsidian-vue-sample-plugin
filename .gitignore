@@ -9,7 +9,7 @@
 ## 排除 npm 的锁文件.
 ##
 /package-lock.json
-
+/plugin
 ##
 ## Exclude the dependencies of the package.
 ##
